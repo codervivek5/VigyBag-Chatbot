@@ -1,0 +1,687 @@
+[
+  {
+    "Category": "General Information",
+    "Question": "What is VigyBag?",
+    "Answer": "VigyBag is an eco-friendly e-commerce platform that offers sustainable and handcrafted products while supporting rural artisans, women entrepreneurs, and environmentally responsible practices."
+  },
+  {
+    "Category": "",
+    "Question": "What kind of products does VigyBag sell?",
+    "Answer": "VigyBag offers a variety of handcrafted, eco-friendly, and sustainable products made using biodegradable, recycled, and environmentally conscious materials."
+  },
+  {
+    "Category": "",
+    "Question": "How is VigyBag different from other online marketplaces?",
+    "Answer": "Unlike traditional marketplaces, VigyBag focuses on sustainability, artisan empowerment, and eco-friendly products. Many of our products are handcrafted by skilled artisans and women entrepreneurs."
+  },
+  {
+    "Category": "",
+    "Question": "Why should I shop from VigyBag?",
+    "Answer": "Every purchase on VigyBag supports sustainable production practices and helps create opportunities for local artisans and small businesses while providing customers with unique handcrafted products."
+  },
+  {
+    "Category": "",
+    "Question": "Are all products on VigyBag eco-friendly?",
+    "Answer": "Yes. Our products are made from sustainable, biodegradable, or recycled materials. We carefully evaluate suppliers to ensure they meet our environmental and ethical standards."
+  },
+  {
+    "Category": "",
+    "Question": "Are all products handmade?",
+    "Answer": "The majority of products on VigyBag are handcrafted by rural artisans and women entrepreneurs. Because they are handmade, slight variations in color, texture, size, or finish may occur, making each piece unique."
+  },
+  {
+    "Category": "",
+    "Question": "Is VigyBag an Indian company?",
+    "Answer": "Yes. VigyBag operates in India and works closely with Indian artisans, creators, and sustainable businesses."
+  },
+  {
+    "Category": "",
+    "Question": "How can I contact customer support?",
+    "Answer": "You can contact our support team via email at vigybag@gmail.com or call +91 7393017587 during support hours."
+  },
+  {
+    "Category": "",
+    "Question": "What are your customer support hours?",
+    "Answer": "Our customer support team is available Monday to Saturday. Queries received outside working hours are addressed on the next working day."
+  },
+  {
+    "Category": "",
+    "Question": "Where can I learn more about VigyBag's mission?",
+    "Answer": "You can visit the About Us section of our website to learn more about our sustainability initiatives, artisan partnerships, and company values."
+  },
+  {
+    "Category": "Orders & Shipping",
+    "Question": "How do I place an order on VigyBag?",
+    "Answer": "Browse products, add your desired items to the cart, proceed to checkout, enter your delivery details, choose a payment method, and complete your purchase."
+  },
+  {
+    "Category": "",
+    "Question": "Can I place an order without creating an account?",
+    "Answer": "Yes. VigyBag offers Guest Checkout, allowing customers to place orders by providing their delivery information, phone number, and email address without creating an account."
+  },
+  {
+    "Category": "",
+    "Question": "Will I receive an order confirmation?",
+    "Answer": "Yes. After a successful order placement, a confirmation message containing your order details will be sent to your registered email address or phone number."
+  },
+  {
+    "Category": "",
+    "Question": "How long does delivery take?",
+    "Answer": "Standard delivery typically takes 5–7 business days. Delivery times may vary depending on product availability, location, and courier partner serviceability."
+  },
+  {
+    "Category": "",
+    "Question": "Do you offer express delivery?",
+    "Answer": "Yes. Express delivery (2–3 business days) is available for select pincodes at an additional cost."
+  },
+  {
+    "Category": "",
+    "Question": "Do you offer free shipping?",
+    "Answer": "Yes. We offer free shipping on orders above ₹500."
+  },
+  {
+    "Category": "",
+    "Question": "Do you deliver across India?",
+    "Answer": "Yes. We deliver to most serviceable locations across India through trusted logistics partners."
+  },
+  {
+    "Category": "",
+    "Question": "Do you offer international shipping?",
+    "Answer": "No. At present, VigyBag ships only within India."
+  },
+  {
+    "Category": "",
+    "Question": "How can I track my order?",
+    "Answer": "Once your order is dispatched, you will receive tracking information via email or SMS, allowing you to monitor your shipment in real time."
+  },
+  {
+    "Category": "",
+    "Question": "Which courier partners do you use?",
+    "Answer": "We work with trusted logistics providers to ensure reliable and timely delivery. Tracking information is provided after dispatch."
+  },
+  {
+    "Category": "",
+    "Question": "Can I cancel my order?",
+    "Answer": "Orders can generally be canceled before they are shipped. Once dispatched, cancellation may not be possible."
+  },
+  {
+    "Category": "",
+    "Question": "Can I modify my order after placing it?",
+    "Answer": "Modifications may be possible if the order has not yet entered processing or shipping. Please contact support immediately."
+  },
+  {
+    "Category": "",
+    "Question": "Can I change my delivery address after placing an order?",
+    "Answer": "Address changes may be possible before shipment. Contact customer support as soon as possible for assistance."
+  },
+  {
+    "Category": "",
+    "Question": "What happens after I place an order?",
+    "Answer": "Your order goes through verification, processing, packaging, shipment, and delivery. You'll receive updates throughout the process."
+  },
+  {
+    "Category": "",
+    "Question": "What should I do if my order is delayed?",
+    "Answer": "If your order has exceeded the expected delivery timeline, please contact customer support with your order details for assistance."
+  },
+  {
+    "Category": "Returns, Refunds & Payments",
+    "Question": "What is your return policy?",
+    "Answer": "VigyBag offers a 30-day return policy. Returned items must be unused and in their original packaging."
+  },
+  {
+    "Category": "",
+    "Question": "Can I exchange a product?",
+    "Answer": "Yes. Exchange requests can be raised within the eligible exchange period. Products must be unused, unwashed, and returned with original packaging and tags intact."
+  },
+  {
+    "Category": "",
+    "Question": "What if I receive a damaged product?",
+    "Answer": "If you receive a damaged product, contact us within 48 hours of delivery with your Order ID and photos/videos of the damage. After verification, we will provide a replacement or full refund at no additional cost."
+  },
+  {
+    "Category": "",
+    "Question": "What if I receive the wrong product?",
+    "Answer": "If you receive an incorrect item, notify us within 48 hours of delivery. We will arrange a free reverse pickup and dispatch the correct product."
+  },
+  {
+    "Category": "",
+    "Question": "How do I request a return?",
+    "Answer": "Log in to your account and go to \"My Orders\", Select the order and click \"Return Item\", Choose the reason for return and submit, We'll arrange a free pickup within 2-3 business days, Once we receive and inspect the item, refund will be initiated"
+  },
+  {
+    "Category": "",
+    "Question": "How long do refunds take?",
+    "Answer": "Refund timelines depend on the payment method used during purchase. Cards take 5-7 business days, UPI/Net Banking takes 3-5 days whereas Wallet takes 2-3 days."
+  },
+  {
+    "Category": "",
+    "Question": "How will I receive my refund?",
+    "Answer": "Refunds are issued to the original payment method used for the purchase."
+  },
+  {
+    "Category": "",
+    "Question": "What payment methods do you accept?",
+    "Answer": "We accept major credit cards, debit cards, UPI, net banking, and popular digital wallets through our secure payment system."
+  },
+  {
+    "Category": "",
+    "Question": "Is Cash on Delivery (COD) available?",
+    "Answer": "Yes. Cash on Delivery is available for eligible orders and serviceable locations."
+  },
+  {
+    "Category": "",
+    "Question": "Is it safe to make payments on VigyBag?",
+    "Answer": "Yes. All transactions are processed through a secure payment gateway using industry-standard encryption technologies."
+  },
+  {
+    "Category": "",
+    "Question": "My payment failed. What should I do?",
+    "Answer": "Payment failures can occur due to network issues, bank restrictions, insufficient funds, or technical interruptions. Please retry or contact support if the issue persists."
+  },
+  {
+    "Category": "",
+    "Question": "My money was deducted but my order wasn't confirmed. What should I do?",
+    "Answer": "If payment was deducted but no order confirmation was received, wait a short time and check your transaction status. If the issue remains unresolved, contact customer support with your payment details."
+  },
+  {
+    "Category": "Product Information",
+    "Question": "What materials are used in VigyBag products?",
+    "Answer": "Our products are made using sustainable, biodegradable, recycled, and environmentally friendly materials. Material details are also provided on individual product pages."
+  },
+  {
+    "Category": "",
+    "Question": "Are your products environmentally friendly?",
+    "Answer": "Yes. Sustainability is a core part of our mission. We carefully select products made from eco-friendly materials and responsible production practices."
+  },
+  {
+    "Category": "",
+    "Question": "How can I know what material a product is made from?",
+    "Answer": "Each product page contains detailed information about materials, features, dimensions, and usage instructions."
+  },
+  {
+    "Category": "",
+    "Question": "Are product images accurate?",
+    "Answer": "Yes. We strive to represent products as accurately as possible. However, slight variations may occur due to lighting, photography, and the handmade nature of many products."
+  },
+  {
+    "Category": "",
+    "Question": "Why does my product look slightly different from the image?",
+    "Answer": "Since many products are handcrafted, small variations in color, texture, size, or finish may occur. These variations are a natural characteristic of handmade products."
+  },
+  {
+    "Category": "",
+    "Question": "Are handmade variations considered defects?",
+    "Answer": "No. Minor differences in handcrafted products are expected and highlight the uniqueness of artisan-made goods."
+  },
+  {
+    "Category": "",
+    "Question": "How can I find product dimensions?",
+    "Answer": "Product dimensions and specifications are listed on individual product pages whenever applicable."
+  },
+  {
+    "Category": "",
+    "Question": "Are the products durable?",
+    "Answer": "Yes. Our products are designed for everyday use, though durability depends on proper care and usage."
+  },
+  {
+    "Category": "",
+    "Question": "How should I care for my product?",
+    "Answer": "Care instructions vary depending on the material and product type. Please refer to the product page or packaging instructions."
+  },
+  {
+    "Category": "",
+    "Question": "Are your products waterproof?",
+    "Answer": "Waterproof capability varies by product. Please review the product description for specific information."
+  },
+  {
+    "Category": "",
+    "Question": "Are products biodegradable?",
+    "Answer": "Most products are made from biodegradable, sustainable, or recycled materials. Specific material details can be found on the product page."
+  },
+  {
+    "Category": "",
+    "Question": "Do your products contain plastic?",
+    "Answer": "We aim to minimize plastic usage and prioritize eco-friendly alternatives whenever possible. Product-specific details are available on each listing."
+  },
+  {
+    "Category": "",
+    "Question": "Are the products suitable for gifting?",
+    "Answer": "Yes. Many of our handcrafted and sustainable products make excellent gifts for friends, family, and special occasions."
+  },
+  {
+    "Category": "",
+    "Question": "Do you offer personalized products?",
+    "Answer": "Product customization depends on the specific product and seller. Contact support for customization inquiries."
+  },
+  {
+    "Category": "",
+    "Question": "How do I know if a product is in stock?",
+    "Answer": "Product availability is displayed on the product page. Out-of-stock products may be restocked based on availability."
+  },
+  {
+    "Category": "Sustainability & Artisan Support",
+    "Question": "How does VigyBag support artisans?",
+    "Answer": "VigyBag provides artisans and women entrepreneurs with a platform to showcase and sell their handcrafted products to customers across India."
+  },
+  {
+    "Category": "",
+    "Question": "Are your products handmade by artisans?",
+    "Answer": "Yes. The majority of our products are handcrafted by skilled rural artisans and women entrepreneurs."
+  },
+  {
+    "Category": "",
+    "Question": "Why are handmade products more unique?",
+    "Answer": "Handmade products are individually crafted, meaning each piece may have slight differences that make it unique and authentic."
+  },
+  {
+    "Category": "",
+    "Question": "How does purchasing from VigyBag help local communities?",
+    "Answer": "Every purchase helps support artisan livelihoods, traditional craftsmanship, and sustainable economic opportunities."
+  },
+  {
+    "Category": "",
+    "Question": "Do artisans receive fair compensation?",
+    "Answer": "VigyBag aims to maintain a fair and transparent marketplace that supports artisan growth and sustainable business practices."
+  },
+  {
+    "Category": "",
+    "Question": "What makes VigyBag sustainable?",
+    "Answer": "We focus on eco-friendly products, sustainable materials, responsible packaging, and supporting local artisan communities."
+  },
+  {
+    "Category": "",
+    "Question": "Are your products ethically sourced?",
+    "Answer": "Yes. We work with suppliers and artisans who align with our sustainability and ethical standards."
+  },
+  {
+    "Category": "",
+    "Question": "What materials are commonly used?",
+    "Answer": "Common materials include biodegradable, recycled, natural, and environmentally responsible alternatives."
+  },
+  {
+    "Category": "",
+    "Question": "Do you use eco-friendly packaging?",
+    "Answer": "Yes. Products are packed using eco-friendly, biodegradable, and recyclable materials such as paper, cloth, and jute packaging."
+  },
+  {
+    "Category": "",
+    "Question": "Why does VigyBag prioritize sustainability?",
+    "Answer": "Our goal is to reduce environmental impact while supporting responsible production and consumption practices."
+  },
+  {
+    "Category": "Account & Profile Management",
+    "Question": "Do I need an account to shop on VigyBag?",
+    "Answer": "No. You can place orders using our Guest Checkout feature without creating an account."
+  },
+  {
+    "Category": "",
+    "Question": "How do I create an account?",
+    "Answer": "Click on the Sign Up option, enter your details, and follow the registration process to create your account."
+  },
+  {
+    "Category": "",
+    "Question": "How do I log in to my account?",
+    "Answer": "Use your registered email address or phone number along with your password to log in."
+  },
+  {
+    "Category": "",
+    "Question": "I forgot my password. What should I do?",
+    "Answer": "Use the Forgot Password option on the login page and follow the instructions to reset your password."
+  },
+  {
+    "Category": "",
+    "Question": "Why can't I log in?",
+    "Answer": "Login issues may occur due to incorrect credentials, forgotten passwords, or temporary technical issues."
+  },
+  {
+    "Category": "",
+    "Question": "How can I update my profile information?",
+    "Answer": "Profile information can be updated through your account settings after logging in."
+  },
+  {
+    "Category": "",
+    "Question": "How can I change my phone number?",
+    "Answer": "Contact customer support if you need assistance updating your registered phone number."
+  },
+  {
+    "Category": "",
+    "Question": "How can I change my email address?",
+    "Answer": "Depending on account settings, you may update your email address through your profile or by contacting support."
+  },
+  {
+    "Category": "",
+    "Question": "How do I update my saved address?",
+    "Answer": "Saved addresses can be managed through your account dashboard."
+  },
+  {
+    "Category": "",
+    "Question": "Can I save multiple addresses?",
+    "Answer": "Yes, you can add multiple addresses "
+  },
+  {
+    "Category": "",
+    "Question": "How can I view my order history?",
+    "Answer": "Log in to your account and visit the My Orders section to view previous purchases."
+  },
+  {
+    "Category": "",
+    "Question": "Can guest users track their orders?",
+    "Answer": "Yes. Tracking information is sent through email or SMS once the order is shipped."
+  },
+  {
+    "Category": "",
+    "Question": "Can I delete my account?",
+    "Answer": "Account deletion requests can be submitted through customer support."
+  },
+  {
+    "Category": "",
+    "Question": "Is my account information secure?",
+    "Answer": "Yes. We use security measures designed to protect customer accounts and personal information."
+  },
+  {
+    "Category": "",
+    "Question": "How can I contact support regarding account issues?",
+    "Answer": "Email us at vigybag@gmail.com or call +91 7393017587 for assistance."
+  },
+  {
+    "Category": "Offers & Coupons",
+    "Question": "How do I apply a coupon code?",
+    "Answer": "Enter your coupon code in the designated field during checkout and click Apply before completing your payment."
+  },
+  {
+    "Category": "",
+    "Question": "Where can I find current offers and discounts?",
+    "Answer": "Active promotions and discounts are displayed on the homepage, product pages, banners, and promotional campaigns."
+  },
+  {
+    "Category": "",
+    "Question": "Why isn't my coupon code working?",
+    "Answer": "Coupon codes may not work if they have expired, do not apply to selected products, fail to meet minimum order requirements, or have already reached usage limits."
+  },
+  {
+    "Category": "",
+    "Question": "Can I use multiple coupon codes on one order?",
+    "Answer": "No. Only one coupon code can typically be applied per order unless otherwise stated."
+  },
+  {
+    "Category": "",
+    "Question": "Do coupon codes expire?",
+    "Answer": "Yes. Most coupons are valid for a limited period and expire on the date specified in the offer terms."
+  },
+  {
+    "Category": "",
+    "Question": "Can I apply a coupon after placing an order?",
+    "Answer": "No. Coupon codes must be applied before completing the payment process."
+  },
+  {
+    "Category": "",
+    "Question": "Are discounts available on all products?",
+    "Answer": "Some discounts apply only to selected products, categories, or promotional campaigns."
+  },
+  {
+    "Category": "",
+    "Question": "Can discounted products be returned?",
+    "Answer": "Yes. Return eligibility depends on the return policy, not whether the product was purchased at a discount."
+  },
+  {
+    "Category": "",
+    "Question": "Are there special offers for first-time customers?",
+    "Answer": "First-time customer offers may be available during promotional campaigns. Please check the website for current offers."
+  },
+  {
+    "Category": "",
+    "Question": "What happens to my coupon if I cancel my order?",
+    "Answer": "Coupon restoration depends on the specific promotion and cancellation policy."
+  },
+  {
+    "Category": "Privacy & Security",
+    "Question": "Is my personal information safe on VigyBag?",
+    "Answer": "Yes. We implement security measures designed to protect customer information from unauthorized access and misuse."
+  },
+  {
+    "Category": "",
+    "Question": "What information does VigyBag collect?",
+    "Answer": "We may collect information such as your name, contact details, delivery address, account information, and transaction-related details to provide our services."
+  },
+  {
+    "Category": "",
+    "Question": "Why do you collect my personal information?",
+    "Answer": "Information is collected to process orders, provide support, improve services, and maintain platform security."
+  },
+  {
+    "Category": "",
+    "Question": "Do you sell customer data to third parties?",
+    "Answer": "No. VigyBag does not sell customer information to third parties."
+  },
+  {
+    "Category": "",
+    "Question": "Who do you share customer information with?",
+    "Answer": "Information may be shared only with trusted service providers such as logistics partners and payment processors when necessary to fulfill services."
+  },
+  {
+    "Category": "",
+    "Question": "Is my payment information stored on your servers?",
+    "Answer": "No. Sensitive banking and card information is processed through secure payment gateways and is not stored on our servers."
+  },
+  {
+    "Category": "",
+    "Question": "Can I request a copy of my personal data?",
+    "Answer": "Yes. Customers may request access to eligible personal information according to our privacy policy and applicable regulations."
+  },
+  {
+    "Category": "",
+    "Question": "Can I request deletion of my personal information?",
+    "Answer": "Yes. Customers may request deletion of eligible personal information subject to legal and operational requirements."
+  },
+  {
+    "Category": "",
+    "Question": "Do you use cookies on the website?",
+    "Answer": "Cookies may be used to improve website functionality, user experience, and security."
+  },
+  {
+    "Category": "",
+    "Question": "Where can I read the complete Privacy Policy?",
+    "Answer": "The full Privacy Policy is available on the website and explains how customer data is collected, used, and protected."
+  },
+  {
+    "Category": "Technical Support",
+    "Question": "The website is not loading. What should I do?",
+    "Answer": "Check your internet connection, refresh the page, or try accessing the website from another browser or device."
+  },
+  {
+    "Category": "",
+    "Question": "Why is the website running slowly?",
+    "Answer": "Website performance may be affected by network conditions, browser settings, heavy traffic, or temporary maintenance"
+  },
+  {
+    "Category": "",
+    "Question": "I am not receiving the OTP. What should I do?",
+    "Answer": "Wait a few minutes, verify your phone number, check network connectivity, and request a new OTP if needed."
+  },
+  {
+    "Category": "",
+    "Question": "The password reset email is not arriving. What should I do?",
+    "Answer": "Check your spam folder and ensure you're using the correct registered email address before requesting another reset link."
+  },
+  {
+    "Category": "",
+    "Question": "My cart items disappeared. Why?",
+    "Answer": "Cart items may be removed if products go out of stock, your session expires, or browser data is cleared."
+  },
+  {
+    "Category": "",
+    "Question": "I can't add a product to my cart. What should I do?",
+    "Answer": "The product may be out of stock, temporarily unavailable, or affected by a technical issue. Refresh the page or try again later."
+  },
+  {
+    "Category": "",
+    "Question": "The payment page is not working. What should I do?",
+    "Answer": "Refresh the page, try a different payment method, or attempt the transaction again after some time."
+  },
+  {
+    "Category": "",
+    "Question": "I received an error during checkout. What should I do?",
+    "Answer": "Review your information, refresh the page, and retry the checkout process. Contact support if the issue continues."
+  },
+  {
+    "Category": "",
+    "Question": "How do I report a technical issue?",
+    "Answer": "Contact customer support and provide details about the issue, including screenshots if possible."
+  },
+  {
+    "Category": "",
+    "Question": "Which browsers work best with VigyBag?",
+    "Answer": "Modern browsers such as Chrome, Edge, Firefox, and Safari generally provide the best experience."
+  },
+  {
+    "Category": "Seller / Artisan FAQs",
+    "Question": "Can I sell my products on VigyBag?",
+    "Answer": "Yes. Artisans, creators, and eligible businesses can apply to sell their products on VigyBag, subject to approval and platform requirements."
+  },
+  {
+    "Category": "",
+    "Question": "How do I become a seller on VigyBag?",
+    "Answer": "Interested sellers can register through the seller onboarding process and submit the required information for verification and approval."
+  },
+  {
+    "Category": "",
+    "Question": "What documents are required to become a seller?",
+    "Answer": "Sellers may need to provide identity verification, bank account details, business information, and any documents required by applicable regulations."
+  },
+  {
+    "Category": "",
+    "Question": "Is there a registration fee for sellers?",
+    "Answer": "Seller onboarding fees depend on the current platform policy. Please contact the seller support team for details."
+  },
+  {
+    "Category": "",
+    "Question": "What products can I sell on VigyBag?",
+    "Answer": "Sellers can list products that align with VigyBag's sustainability standards and marketplace guidelines."
+  },
+  {
+    "Category": "",
+    "Question": "Can artisans sell handmade products without a registered company?",
+    "Answer": "Eligibility depends on seller onboarding requirements and applicable regulations."
+  },
+  {
+    "Category": "",
+    "Question": "How do I upload products?",
+    "Answer": "Approved sellers can upload products through the seller dashboard by providing product details, pricing, images, and inventory information."
+  },
+  {
+    "Category": "",
+    "Question": "Can I update product information later?",
+    "Answer": "Yes. Sellers can update product descriptions, images, pricing, and stock availability through their dashboard."
+  },
+  {
+    "Category": "",
+    "Question": "How does VigyBag support sellers?",
+    "Answer": "VigyBag provides marketplace access, customer reach, marketing visibility, and platform support to help sellers grow their business."
+  },
+  {
+    "Category": "",
+    "Question": "What is the seller commission structure?",
+    "Answer": "VigyBag follows a transparent commission model. A flat commission percentage is charged on successful sales to cover platform operations, payment processing, and marketing support."
+  },
+  {
+    "Category": "",
+    "Question": "When will I receive payment for my sales?",
+    "Answer": "Seller payouts are processed after the customer's return window has closed and are credited according to the payout schedule."
+  },
+  {
+    "Category": "",
+    "Question": "How are seller payments made?",
+    "Answer": "Payments are transferred directly to the seller's registered bank account."
+  },
+  {
+    "Category": "",
+    "Question": "What happens if a customer returns a product?",
+    "Answer": "Return requests are handled according to VigyBag's return policy and seller agreement terms."
+  },
+  {
+    "Category": "",
+    "Question": "Can I temporarily disable my product listings?",
+    "Answer": "Yes. Sellers can manage product availability through their seller dashboard."
+  },
+  {
+    "Category": "",
+    "Question": "How can I contact seller support?",
+    "Answer": "Sellers can contact the VigyBag support team through the designated seller support channels."
+  },
+  {
+    "Category": "Shopping Assistance & Product Recommendations",
+    "Question": "Can you recommend an eco-friendly gift?",
+    "Answer": "Yes. VigyBag offers a variety of sustainable and handcrafted products that make thoughtful eco-friendly gifts for any occasion."
+  },
+  {
+    "Category": "",
+    "Question": "What are some good gift options under ₹500?",
+    "Answer": "Products under ₹500 may include handcrafted accessories, eco-friendly utility products, and artisan-made gift items. Availability depends on current inventory."
+  },
+  {
+    "Category": "",
+    "Question": "What products are suitable for students?",
+    "Answer": "Students often prefer practical and sustainable products such as bags, organizers, stationery items, and daily-use accessories."
+  },
+  {
+    "Category": "",
+    "Question": "What are the best products for office use?",
+    "Answer": "Eco-friendly organizers, desk accessories, utility products, and sustainable work essentials are popular choices for office use."
+  },
+  {
+    "Category": "",
+    "Question": "Can you recommend a birthday gift?",
+    "Answer": "Yes. Recommendations can be tailored based on the recipient's age, interests, and your budget."
+  },
+  {
+    "Category": "",
+    "Question": "Which products are handmade?",
+    "Answer": "The majority of VigyBag products are handcrafted by artisans. Product descriptions provide detailed information about craftsmanship and materials."
+  },
+  {
+    "Category": "",
+    "Question": "What are your most popular products?",
+    "Answer": "Popular products vary depending on customer preferences, seasonal demand, and current trends."
+  },
+  {
+    "Category": "",
+    "Question": "Can you recommend products for environmentally conscious customers?",
+    "Answer": "Yes. We offer products made from sustainable, biodegradable, and recycled materials that support responsible consumption."
+  },
+  {
+    "Category": "",
+    "Question": "What products are suitable for festivals and celebrations?",
+    "Answer": "Handcrafted décor items, eco-friendly gifts, and artisan-made products are popular choices during festivals and special occasions."
+  },
+  {
+    "Category": "",
+    "Question": "Can you recommend products based on my budget?",
+    "Answer": "Yes. Recommendations can be customized according to the budget range you provide."
+  },
+  {
+    "Category": "",
+    "Question": "What should I buy for someone who loves sustainable living?",
+    "Answer": "Eco-friendly household items, reusable products, handcrafted accessories, and sustainable lifestyle products are excellent choices."
+  },
+  {
+    "Category": "",
+    "Question": "Do you offer alternatives to plastic products?",
+    "Answer": "Yes. Many products on VigyBag are designed as sustainable alternatives to conventional plastic-based products."
+  },
+  {
+    "Category": "",
+    "Question": "How do I choose the right product?",
+    "Answer": "Consider factors such as intended use, material, dimensions, sustainability features, and customer preferences when selecting a product."
+  },
+  {
+    "Category": "",
+    "Question": "Can you recommend products for corporate gifting?",
+    "Answer": "Yes. VigyBag offers eco-friendly gifting options suitable for corporate events, employee appreciation, and business occasions."
+  },
+  {
+    "Category": "",
+    "Question": "Can you help me compare products?",
+    "Answer": "Yes. Product specifications, materials, features, and intended usage can be compared to help you make an informed purchase decision."
+  }
+]
