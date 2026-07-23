@@ -1,32 +1,27 @@
 from langchain_chroma import Chroma
-
 from ai.embeddings import get_embedding_model
 
 
-# Retrieve similar documents from ChromaDB
+embedding_model = get_embedding_model()
+
+vectorstore = Chroma(
+    persist_directory="vectorstore/chroma_db",
+    embedding_function=embedding_model,
+    collection_name="vigybag_faqs"
+)
+
+retriever = vectorstore.as_retriever(
+    search_kwargs={"k": 3}
+)
+
+
 def retrieve_documents(query, top_k=3):
-    vectorstore = Chroma(
-        persist_directory="vectorstore/chroma_db",
-        embedding_function=get_embedding_model(),
-        collection_name="vigybag_faqs"
-    )
-
-    retriever = vectorstore.as_retriever(
-        search_kwargs={"k": top_k}
-    )
-
     documents = retriever.invoke(query)
 
-    return [document.page_content for document in documents]
+    print("\n===== Retrieved Documents =====")
+    for i, doc in enumerate(documents, 1):
+        print(f"\nDocument {i}:")
+        print(doc.page_content)
+    print("===============================\n")
 
-
-if __name__ == "__main__":
-    query = "How can I return my order?"
-
-    documents = retrieve_documents(query)
-
-    print("\nRetrieved Documents:\n")
-
-    for document in documents:
-        print(document)
-        print("-" * 50)
+    return [doc.page_content for doc in documents]
