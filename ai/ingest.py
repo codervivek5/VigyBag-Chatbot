@@ -1,8 +1,8 @@
 from langchain_chroma import Chroma
 
-from loader import load_documents
-from chunking import chunk_documents
-from embeddings import get_embedding_model
+from ai.loader import load_documents
+from ai.chunking import chunk_documents
+from ai.embeddings import get_embedding_model
 
 
 # Create and store embeddings in ChromaDB

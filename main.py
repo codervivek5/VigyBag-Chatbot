@@ -1,4 +1,4 @@
-from rag_pipeline import generate_answer
+from ai.rag_pipeline import generate_answer
 
 
 # Run chatbot
