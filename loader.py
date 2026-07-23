@@ -1,9 +1,13 @@
+# loader.py
 import json
+from pathlib import Path
 
+
+FAQ_FILE = Path(__file__).resolve().parent / "data" / "faq.json"
 
 # Load FAQ data from faq.json
 def load_documents():
-    with open("data/faq.json", "r", encoding="utf-8") as file:
+    with FAQ_FILE.open("r", encoding="utf-8") as file:
         records = json.load(file)
 
     documents = []

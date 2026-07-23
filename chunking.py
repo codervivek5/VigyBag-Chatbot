@@ -1,4 +1,6 @@
+# chunking.py
 from langchain_text_splitters import RecursiveCharacterTextSplitter
+
 
 
 # Split documents into smaller chunks

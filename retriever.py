@@ -1,14 +1,16 @@
+# retriever.py
 from langchain_chroma import Chroma
 
 from embeddings import get_embedding_model
+from ingest import COLLECTION_NAME, PERSIST_DIRECTORY
 
 
 # Retrieve similar documents from ChromaDB
 def retrieve_documents(query, top_k=3):
     vectorstore = Chroma(
-        persist_directory="vectorstore/chroma_db",
+        persist_directory=str(PERSIST_DIRECTORY),
         embedding_function=get_embedding_model(),
-        collection_name="vigybag_faqs"
+        collection_name=COLLECTION_NAME
     )
 
     retriever = vectorstore.as_retriever(
